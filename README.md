@@ -169,12 +169,13 @@ The script will:
 
 ## 📝 Citation
 
-If you use this repository, please cite:
+If you use this code, please cite:
 
-**Alkamli, S.; Alshamlan, H.  
-“Hybrid Gene Selection Algorithm for Cancer Classification Using Nuclear Reaction Optimization (NRO).”  
-Current Issues in Molecular Biology, 2025.**  
-
+```
+Alkamli, S.; Alshamlan, H. Hybrid Gene Selection Algorithm
+for Cancer Classification Using Nuclear Reaction Optimization (NRO).
+Current Issues in Molecular Biology, 2025.
+```
 ---
 
 ## 📜 License
