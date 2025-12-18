@@ -105,8 +105,6 @@ All datasets are included in **ARFF** format.
 
 ## 📈 Published Results (CIMB 2025)
 
-The following results replicate Tables 2–7 from the publication.
-
 | Dataset | Selected Genes | Accuracy |
 |--------|----------------|----------|
 | **Colon** | 22 genes | **98.39%** |
@@ -117,31 +115,6 @@ The following results replicate Tables 2–7 from the publication.
 | **SRBCT** | 7 genes | **100%** |
 
 F-NRO demonstrates excellent stability and accuracy across all datasets while maintaining very small gene subsets.
-
----
-
-## 🥇 Comparative Performance
-
-As reported in **Table 8**, F-NRO was compared to:
-
-- F-FSAPV  
-- F-FF  
-- Relief-MBO  
-- mRMR-ABC  
-- mRMR-PSO  
-- Co-ABC  
-- PCC-GA  
-- HHO-GRASP  
-- mRMR-GA  
-
-### **F-NRO achieved:**
-
-- ⭐ **Highest accuracy on 5 datasets**  
-- ⭐ **Perfect accuracy on Leukemia1, Leukemia2, Lung, Lymphoma, and SRBCT**  
-- ⭐ **Competitive subset sizes (2–22 genes)**  
-- ⭐ **Strong consistency across 30 runs**  
-
-This places F-NRO among the **top-performing hybrid gene-selection algorithms** in the field.
 
 ---
 
