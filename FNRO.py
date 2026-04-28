@@ -1,5 +1,5 @@
 """
-F-NRO: F-Score–Based Nuclear Reaction Optimization
+F-NRO: F-Score–Based Nuclear Reaction Optimization Algorithm
 
 The implementation is available upon request for academic and research purposes.
 
